@@ -1,0 +1,33 @@
+table {
+	border-collapse: collapse;
+}
+
+th {
+	color: red;
+	text-align: center;
+}
+tr {
+	color: white;
+	text-align: center;
+}
+
+*{
+	background-color: black;
+	text-align: center;
+	
+}
+th:hover {
+	color:white;
+	cursor: pointer;
+	color: green;
+}
+tr:hover {
+	cursor: pointer;
+	color: yellow;
+	background-color: green;
+}
+a{
+	color: yellow;
+}
+
+
